@@ -1,0 +1,4 @@
+C:\Users\tangwend368\Documents\Projects\DuckGoose\DuckGoose\bin\Debug\DuckGoose.exe
+C:\Users\tangwend368\Documents\Projects\DuckGoose\DuckGoose\bin\Debug\DuckGoose.pdb
+C:\Users\tangwend368\Documents\Projects\DuckGoose\DuckGoose\obj\x86\Debug\DuckGoose.exe
+C:\Users\tangwend368\Documents\Projects\DuckGoose\DuckGoose\obj\x86\Debug\DuckGoose.pdb

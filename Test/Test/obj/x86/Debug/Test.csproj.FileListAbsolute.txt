@@ -1,0 +1,4 @@
+C:\Users\tangwend368\Documents\Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\tangwend368\Documents\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\tangwend368\Documents\Projects\Test\Test\obj\x86\Debug\Test.exe
+C:\Users\tangwend368\Documents\Projects\Test\Test\obj\x86\Debug\Test.pdb
